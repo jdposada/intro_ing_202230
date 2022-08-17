@@ -7,7 +7,7 @@ En este repositorio se encuentra el material usado en la clase de introduccion a
 |      1     | 26-jul.   |Presentacion del Curso          |              |                |                 |
 |      2     | 2-ago.    |Introducción a Google Colab y Python          |[Código](https://github.com/jdposada/intro_ing_202230/blob/main/week02_intro_class.ipynb)              |                |                 |
 |      3     | 9-ago.    |Introducción a la Ingeniería de Sistemas          |[Diapositivas](https://uninorte-my.sharepoint.com/:p:/g/personal/jposada_uninorte_edu_co/EZ_vTXSKJFBNomu_pPVRyTgB7IEVK2Q9nkhy5S-xHVNmqw?e=xLGjF9)              |                |                 |
-|      4     | 16-ago.   |Listas, Diccionarios y Tuplas en Python          |              |                |                 |
+|      4     | 16-ago.   |Listas, Diccionarios y Tuplas en Python          |[Código](https://github.com/jdposada/intro_ing_202230/blob/main/week04_listas_tuplas_dicts.ipynb)              |                |                 |
 |      5     | 23-ago.   |Introduccion a Pandas y Dataframes          |              |                |                 |
 |      6     | 30-ago.   |Introduccion a Graficos en Python         |              |                |                 |
 |      7     | 6-sep.    |Trabajo Independiente Dirigido         |              |Actividad 1 (20%)                |                 |
