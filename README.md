@@ -11,9 +11,9 @@ En este repositorio se encuentra el material usado en la clase de introduccion a
 |      5     | 23-ago.   |Introduccion a Pandas y Dataframes          |[Código](https://github.com/jdposada/intro_ing_202230/blob/main/week_05_pandas.ipynb)              |                |                 |
 |      6     | 30-ago.   |Introduccion a Graficos en Python         |[Código](https://github.com/jdposada/intro_ing_202230/blob/main/week_06_plots.ipynb)              |                |                 |
 |      7     | 6-sep.    |Analisis Exploratorio Parte 1         |[Código](https://github.com/jdposada/intro_ing_202230/blob/main/week07_analisis_exploratorio.ipynb)              |                |                 |
-|      8     | 13-sep.   |Trabajo Independiente Dirigido           |              |Actividad 1 (20%)                |                 |
-|      9     | 20-sep.   |Funciones de Agregacion en Pandas          |              |                |                 |
-|     10     | 27-sep.   |Análisis Exploratorio Parte 2          |              |                |                 |
+|      8     | 13-sep.   |           |              |               |                 |
+|      9     | 20-sep.   |Presentación Acreditación Institucional         |Actividad 1 (20%)               |                |                 |
+|     10     | 27-sep.   |Funciones de Agregacion en Pandas: Group By         |              |                |                 |
 |     11     | 4-oct.    |Trabajo Independiente Dirigido          |              |Actividad 2 (20%)               |                 |
 |     12     | 11-oct.   |          |              |                |**Semana de Receso**                 |
 |     13     | 18-oct.   |          |              |Presentación de Anteproyectos (20%)                |**Fecha Límite de reporte 40%**                 |
